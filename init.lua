@@ -1,11 +1,11 @@
 --[[
-    Creator: SinoXde
+    Creator: sxid
     Working as of: 10/20/2024
     Supports (Tested): Wave
 
     This Script falls under the MIT License:
 
-    Copyright (c) 2024 SinoXde
+    Copyright (c) 2024 sxid
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
